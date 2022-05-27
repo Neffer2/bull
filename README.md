@@ -6,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Consideraciones
+
+Hice como extra un modulo de register.<br>
+Utilicé algo llamado mutator para encriptar las contraseñas de los ususarios. (Lo leí anoche en la documentación. Funciona pero no sé si es la mejor manera de implementarlo).
+
+
 
 ## About Laravel
 
