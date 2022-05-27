@@ -9,7 +9,10 @@
 
 <h2>Consideraciones</h2>
 Hice como extra un modulo de register.<br>
-Utilicé algo llamado mutator para encriptar las contraseñas de los ususarios. (Lo leí anoche en la documentación. Funciona pero no sé si es la mejor manera de implementarlo).
+Utilicé algo llamado mutator para encriptar las contraseñas de los ususarios. (Lo leí anoche en la documentación. Funciona pero no sé si es la mejor manera de implementarlo).<br>
+Para las imagenes de perfil, utilizar el enlace de alguna imagen en internet.
+Las migraciones están bien pero de todos modos adjunté la DB por si ocurre algún error.
+Utilicé laravel 9.
 
 
 
